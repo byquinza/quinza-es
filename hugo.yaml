@@ -1,6 +1,6 @@
-baseurl: "https://example.org/" # please update this to your actual URL
+baseurl: "https://quinza.es/" # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Aitor Quinza"
 theme: "hugo-xmin"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
